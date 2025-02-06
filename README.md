@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Marsdon.Gao  
 
-<!--
-**GoatCsu/GoatCsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science freshman at CSU** | Passionate about **Natural Language Processing (NLP)** and **Machine Learning**  
+🌱 Currently learning and exploring the world of **LLMs (Large Language Models)** and their implementation from scratch.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Skills & Tools**  
+- **Programming Languages**: Python, C++ (learning)  
+- **Frameworks & Libraries**: PyTorch, TensorFlow (basic)  
+- **Tools**: Git, VS Code, Jupyter Notebook  
+
+---
+
+### 🚀 **Projects & Contributions**  
+- Contributed to **[MLNLP-World/LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN)**: A project focused on building LLMs step-by-step in Chinese.  
+- Exploring more open-source NLP projects and tools.  
+
+---
+
+### 📫 **Get in Touch**  
+- **Email**: [marsdon.gao@gmail.com](mailto:marsdon.gao@gmail.com)  
+- **Goals**: Dive deeper into NLP, contribute to open-source, and collaborate with like-minded developers!  
+
+---
+
+### 💬 **Fun Fact**  
+I believe the future of AI lies in understanding and replicating human language!  
+
+---
+
+⭐️ **Welcome to my Github profile!** Feel free to explore my projects and reach out if you'd like to collaborate or chat about AI and NLP!  
