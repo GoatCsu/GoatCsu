@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Marsdon.Gao  
 
-🎓 **Computer Science freshman at CSU** | Passionate about **Natural Language Processing (NLP)** and **Machine Learning**  
+🎓 **Computer Science freshman at CSU** (Undergraduate)  
 🌱 Currently learning and exploring the world of **LLMs (Large Language Models)** and their implementation from scratch.  
 
 ---
@@ -25,7 +25,12 @@
 ---
 
 ### 💬 **Fun Fact**  
-I believe the future of AI lies in understanding and replicating human language!  
+*** Opera ***
+
+*** Musical ***
+
+*** Paintings ***
+
 
 ---
 
